@@ -1,7 +1,7 @@
 
 public class Triangle {
     public static void main(String[] args) {
-        System.out.println("------Started------");
+        System.out.println("------Triangle application Started------");
         Triangle t1 = new Triangle();
         System.out.println("Please Enter the values between 1 to 8");
         System.out.println("Enter the value side a :");
