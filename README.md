@@ -7,4 +7,5 @@
  Solution : -
  To draw the Triangle used - Java AWT (Abstract Window Toolkit) is an API to develop GUI or window-based applications in java.
  java.awt.*
+ 
 
