@@ -70,7 +70,7 @@ public class TriangleApp {
 	                boolean  status = validateSidesValueInRange(side);
 	                if (!status){
 	                    System.out.println("The Given value is not in the range 1 to 8");
-	                    System.out.println("Please Enter the values between 1 to 8");
+	                    System.out.println("Please Enter the values between 1 To 8");
 	                    String a = System.console().readLine();
 	                    side = Integer.parseInt(a);
 	                }else{
