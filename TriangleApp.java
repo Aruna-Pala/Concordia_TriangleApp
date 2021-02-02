@@ -82,7 +82,7 @@ public class TriangleApp {
 
 	    public static boolean validateSidesValueInRange(int side){
 	        boolean isRange = true;
-	            if (side > 40 || side ==0){
+	            if (side > 8 || side ==0){
 	                isRange = false;
 	            }
 	        return isRange;
